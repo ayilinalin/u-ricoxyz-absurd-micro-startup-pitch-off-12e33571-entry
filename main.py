@@ -5,6 +5,7 @@ or to $MAKEFUN_OUTPUT_DIR/entry.txt when set (local testing).
 Deterministic, standard library only, no network.
 """
 
+# Rewritten via write tool (authorship fix); logic and entry text unchanged.
 import os
 from pathlib import Path
 
